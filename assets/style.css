@@ -102,23 +102,23 @@ h2 {
   margin-bottom: 4px;
 }
 #project-1 {
-  background-image: url("/Users/itzelcontreras/Desktop/UTA Bootcamp/Coursework/Challenges/03_m2_challenge/img/project1.jpg");
+  background-image: url("../img/project1.jpg");
   background-size: cover;
 }
 #project-2 {
-  background-image: url("/Users/itzelcontreras/Desktop/UTA Bootcamp/Coursework/Challenges/03_m2_challenge/img/project2.jpg");
+  background-image: url("../img/project2.jpg");
   background-size: cover;
 }
 #project-3 {
-  background-image: url("/Users/itzelcontreras/Desktop/UTA Bootcamp/Coursework/Challenges/03_m2_challenge/img/project3.jpg");
+  background-image: url("../img/project3.jpg");
   background-size: cover;
 }
 #project-4 {
-  background-image: url("/Users/itzelcontreras/Desktop/UTA Bootcamp/Coursework/Challenges/03_m2_challenge/img/project4.jpg");
+  background-image: url("../img/project4.jpg");
   background-size: cover;
 }
 #project-5 {
-  background-image: url("/Users/itzelcontreras/Desktop/UTA Bootcamp/Coursework/Challenges/03_m2_challenge/img/project5.jpg");
+  background-image: url("../img/project5.jpg");
   background-size: cover;
 }
 
