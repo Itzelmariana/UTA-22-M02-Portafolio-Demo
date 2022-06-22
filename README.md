@@ -12,4 +12,4 @@ The acceptance criteria:
 Mockup picture![Website Picture](docs/mockup1.png)
 ![Website Picture](docs/mockup1.png)
 
-You can find my website deployed at [link](https://itzelmariana.github.io/UTA-22-M01-Landing-Page/).
+You can find my website deployed at [link](https://itzelmariana.github.io/UTA-22-M02-Portfolio-Demo/).
