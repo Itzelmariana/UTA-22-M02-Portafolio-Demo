@@ -67,7 +67,7 @@ nav ul li:hover {
   height: 100px;
   border-radius: 100px;
   float: right;
-  margin: 10px 50px 0 0;
+  margin: 10px 10px 0 0;
 }
 h2 {
   text-align: right;
@@ -80,23 +80,17 @@ h2 {
   margin-bottom: 20px;
 }
 
-#work-images {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-evenly;
-}
 .projects {
-  flex: 1 0 300px;
-  height: 200px;
+  height: 220px;
   border: 3px solid var(--header-text-color);
-  margin: 5px;
+
   cursor: pointer;
 }
 
 .img-text {
   background-color: var(--header-text-color);
   float: left;
-  margin-top: 90px;
+  margin-top: 100px;
 }
 .img-text p {
   margin-bottom: 4px;
@@ -124,9 +118,10 @@ h2 {
 
 .projects:hover {
   color: whitesmoke;
-  background-position: top;
+  background-color: rgb(33, 33, 33, 0.8);
 
   border: 3px solid whitesmoke;
+
 }
 
 #contact-details {
