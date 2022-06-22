@@ -69,6 +69,10 @@ nav ul li:hover {
   float: right;
   margin: 10px 10px 0 0;
 }
+
+/* content */
+
+/* title left side */
 h2 {
   text-align: right;
 }
@@ -76,10 +80,12 @@ h2 {
   border-left: 3px solid var(--content-text-color);
 }
 
+/*content right side */
 .section {
   margin-bottom: 20px;
 }
 
+/* work area content right side */
 .projects {
   height: 220px;
   border: 3px solid var(--header-text-color);
@@ -87,17 +93,25 @@ h2 {
   cursor: pointer;
 }
 
+/* work area text inside images content right side */
 .img-text {
   background-color: var(--header-text-color);
   float: left;
   margin-top: 100px;
 }
+.img-text-project-1 {
+  background-color: var(--header-text-color);
+  float: left;
+  margin-top: 250px;
+}
 .img-text p {
   margin-bottom: 4px;
 }
+/* work area images inside content right side */
 #project-1 {
   background-image: url("../img/project1.jpg");
   background-size: cover;
+  height: 400px;
 }
 #project-2 {
   background-image: url("../img/project2.jpg");
@@ -118,17 +132,18 @@ h2 {
 
 .projects:hover {
   color: whitesmoke;
+
   background-color: rgb(33, 33, 33, 0.8);
 
   border: 3px solid whitesmoke;
-
 }
 
+
+/* contact details text and links style */
 #contact-details {
   display: flex;
   justify-content: space-evenly;
 }
-
 #contact-details a {
   text-decoration: none;
   color: var(--header-background-color);
