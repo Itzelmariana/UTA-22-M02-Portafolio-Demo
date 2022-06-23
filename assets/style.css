@@ -133,11 +133,17 @@ h2 {
 .projects:hover {
   color: whitesmoke;
 
-  background-color: rgb(33, 33, 33, 0.8);
-
   border: 3px solid whitesmoke;
 }
 
+a {
+  text-decoration: none;
+  color: var(--content-text-color);
+}
+
+a:hover {
+  background-color: rgb(33, 33, 33, 0.8);
+}
 
 /* contact details text and links style */
 #contact-details {
