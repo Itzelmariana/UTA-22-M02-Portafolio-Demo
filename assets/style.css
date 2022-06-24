@@ -132,8 +132,8 @@ h2 {
 
 .projects:hover {
   color: whitesmoke;
-
   border: 3px solid whitesmoke;
+  opacity: 0.5;
 }
 
 a {
@@ -142,7 +142,6 @@ a {
 }
 
 a:hover {
-  background-color: rgb(33, 33, 33, 0.8);
 }
 
 /* contact details text and links style */
